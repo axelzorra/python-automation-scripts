@@ -1,78 +1,108 @@
-📌 Python Automation Scripts
-By Axel Zorra — Freelance Python Automation
+# Python Automation Scripts
 
-Welcome!
-This repository contains a collection of professional Python automation scripts designed to help businesses save time, reduce manual work, and improve productivity through smart automation.
+This repository contains a collection of **practical Python automation scripts** designed to solve common business tasks.
 
-I specialize in:
+Each script focuses on a **single automation problem** and can be easily adapted for real company workflows.
 
-✅ Web scraping
+---
 
-✅ Excel automation
+## 🎯 Purpose
 
-✅ Email automation
+These scripts demonstrate how Python can be used to:
+- Automate repetitive manual tasks
+- Handle data extraction and processing
+- Improve internal workflows
+- Reduce time spent on operational work
 
-✅ API integrations
+This repository serves as a **portfolio of automation examples**.
 
-✅ File processing
+---
 
-✅ PDF generation
+## 📂 Included Scripts
 
-✅ Business automation tasks
+### 1️⃣ Website Data Scraper
+Extracts structured data from websites and exports it to Excel or CSV.  
+Use cases: market research, lead collection, price monitoring.
 
-Whether you're a company or an individual, I build fast, simple, and efficient custom scripts tailored to your needs.
+---
 
-🚀 What This Repository Shows
+### 2️⃣ API Data Collector
+Retrieves data from APIs and stores it locally.  
+Use cases: analytics, reporting, dashboards.
 
-This repo demonstrates the type of automation solutions I provide to clients, including:
+---
 
-Data extraction
+### 3️⃣ Excel File Cleaner
+Cleans, merges, and restructures Excel files automatically.  
+Use cases: reporting, accounting, data consolidation.
 
-File manipulation
+---
 
-Reporting automation
+### 4️⃣ Automated Email Sender
+Sends automated emails with custom messages and attachments.  
+Use cases: reports, notifications, internal communication.
 
-Email tools
+---
 
-Backup and monitoring scripts
+### 5️⃣ File Organizer
+Automatically sorts files into folders based on rules.  
+Use cases: document management, backups.
 
-Each folder contains:
+---
 
-A working Python script
+### 6️⃣ PDF Report Generator
+Generates PDF reports from structured data.  
+Use cases: weekly summaries, reports.
 
-A clear English description
+---
 
-Code that is simple to run and easy to adapt
+### 7️⃣ Website Availability Monitor
+Checks website status and logs uptime or downtime.  
+Use cases: monitoring, alerts.
 
-🧰 Tech Stack
+---
 
-This repository uses:
+### 8️⃣ Scheduled Task Automation
+Runs automation tasks at defined intervals.  
+Use cases: daily jobs, recurring workflows.
 
-Python 3+
+---
 
-requests
+### 9️⃣ Data Backup Script
+Creates automatic backups of selected files or folders.  
+Use cases: data protection, archiving.
 
-pandas
+---
 
-BeautifulSoup4
+### 🔟 CSV to Excel Converter
+Converts CSV files into formatted Excel files.  
+Use cases: data processing, reporting.
 
-fpdf
+---
 
-glob
+## ⚙️ Usage
 
-smtplib
+Each script includes:
+- A short description at the top of the file
+- Clear configuration variables or a configuration file
+- Minimal dependencies
+- Simple execution instructions
 
-Standard Python libraries
+Scripts are designed to be **easy to understand and modify**.
 
-💬 Contact
+---
 
-If you need a custom Python automation script, I can deliver fast and clean work.
+## 🔧 Customization
 
-📧 Email: axel.zorra.tech@gmail.com
+These scripts are intended as **starting points**.  
+They can be extended, combined, or customized to match specific business needs.
 
-💼 LinkedIn: Axel Zorra
-🐙 GitHub: axelzorra
+---
 
-⭐ Support
+## 📬 Contact
 
-If you like this repository or find it useful, please give it a ⭐ — it helps a lot!
+If you need a custom automation script or an adaptation of one of these examples:
+
+GitHub: https://github.com/axelzorra  
+LinkedIn: www.linkedin.com/in/axel-zorra-799493376
+
