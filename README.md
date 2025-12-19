@@ -1,82 +1,80 @@
 # Python Automation Scripts
 
-This repository contains a collection of **practical Python automation scripts** designed to solve common business tasks.
+This repository contains **10 practical Python automation scripts** designed to solve common business and operational tasks.
 
-Each script focuses on a **single automation problem** and can be easily adapted for real company workflows.
-
----
-
-## 🎯 Purpose
-
-These scripts demonstrate how Python can be used to:
-- Automate repetitive manual tasks
-- Handle data extraction and processing
-- Improve internal workflows
-- Reduce time spent on operational work
-
-This repository serves as a **portfolio of automation examples**.
+Each script focuses on a specific automation use case and can be adapted to real-world company workflows.
 
 ---
 
 ## 📂 Included Scripts
 
-### 1️⃣ Website Data Scraper
-Extracts structured data from websites and exports it to Excel or CSV.  
-Use cases: market research, lead collection, price monitoring.
+### 1️⃣ api_data_collector.py
+Collects data from APIs and saves it locally.
+
+Use cases: reporting, analytics, dashboards.
 
 ---
 
-### 2️⃣ API Data Collector
-Retrieves data from APIs and stores it locally.  
-Use cases: analytics, reporting, dashboards.
+### 2️⃣ auto_backup.py
+Creates automatic backups of selected files or folders.
 
----
-
-### 3️⃣ Excel File Cleaner
-Cleans, merges, and restructures Excel files automatically.  
-Use cases: reporting, accounting, data consolidation.
-
----
-
-### 4️⃣ Automated Email Sender
-Sends automated emails with custom messages and attachments.  
-Use cases: reports, notifications, internal communication.
-
----
-
-### 5️⃣ File Organizer
-Automatically sorts files into folders based on rules.  
-Use cases: document management, backups.
-
----
-
-### 6️⃣ PDF Report Generator
-Generates PDF reports from structured data.  
-Use cases: weekly summaries, reports.
-
----
-
-### 7️⃣ Website Availability Monitor
-Checks website status and logs uptime or downtime.  
-Use cases: monitoring, alerts.
-
----
-
-### 8️⃣ Scheduled Task Automation
-Runs automation tasks at defined intervals.  
-Use cases: daily jobs, recurring workflows.
-
----
-
-### 9️⃣ Data Backup Script
-Creates automatic backups of selected files or folders.  
 Use cases: data protection, archiving.
 
 ---
 
-### 🔟 CSV to Excel Converter
-Converts CSV files into formatted Excel files.  
-Use cases: data processing, reporting.
+### 3️⃣ auto_email_sender.py
+Sends automated emails with custom messages and attachments.
+
+Use cases: notifications, reports, internal communication.
+
+---
+
+### 4️⃣ bulk_file_downloader.py
+Downloads multiple files automatically from a list of URLs.
+
+Use cases: data collection, asset downloads.
+
+---
+
+### 5️⃣ email_extractor.py
+Extracts email addresses from text or websites.
+
+Use cases: lead collection, contact lists.
+
+---
+
+### 6️⃣ excel_cleaner.py
+Cleans and restructures Excel files automatically.
+
+Use cases: reporting, data cleanup.
+
+---
+
+### 7️⃣ excel_merger.py
+Merges multiple Excel files into a single document.
+
+Use cases: data consolidation, reporting.
+
+---
+
+### 8️⃣ pdf_generator.py
+Generates PDF reports from structured data.
+
+Use cases: summaries, reports.
+
+---
+
+### 9️⃣ scrape_prices.py
+Scrapes product prices from websites and stores them.
+
+Use cases: price monitoring, market research.
+
+---
+
+### 🔟 website_uptime_monitor.py
+Monitors website availability and logs uptime or downtime.
+
+Use cases: monitoring, alerts.
 
 ---
 
@@ -84,18 +82,18 @@ Use cases: data processing, reporting.
 
 Each script includes:
 - A short description at the top of the file
-- Clear configuration variables or a configuration file
+- Clear configuration variables
 - Minimal dependencies
 - Simple execution instructions
 
-Scripts are designed to be **easy to understand and modify**.
+Scripts are designed to be easy to understand and modify.
 
 ---
 
 ## 🔧 Customization
 
-These scripts are intended as **starting points**.  
-They can be extended, combined, or customized to match specific business needs.
+These scripts are intended as **templates**.
+They can be adapted, extended, or combined to match specific business needs.
 
 ---
 
@@ -104,5 +102,6 @@ They can be extended, combined, or customized to match specific business needs.
 If you need a custom automation script or an adaptation of one of these examples:
 
 GitHub: https://github.com/axelzorra  
-LinkedIn: www.linkedin.com/in/axel-zorra-799493376
+LinkedIn: https://www.linkedin.com/in/axel-zorra-799493376
+
 
